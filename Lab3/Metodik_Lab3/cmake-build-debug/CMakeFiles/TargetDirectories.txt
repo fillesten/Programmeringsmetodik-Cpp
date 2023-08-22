@@ -1,3 +1,0 @@
-C:/Users/margi/CLionProjects/Metodik_Lab3/cmake-build-debug/CMakeFiles/Metodik_Lab3.dir
-C:/Users/margi/CLionProjects/Metodik_Lab3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/margi/CLionProjects/Metodik_Lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
