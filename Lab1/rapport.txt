@@ -1,0 +1,50 @@
+explicit constructor
+pointer to start of buffer
+const pointer to end of buffer
+const pointer to start of buffer
+copy constructor
+buf passed to function f
+pointer to start of buffer
+pointer to end of buffer
+pointer to end of buffer
+pointer to end of buffer
+pointer to end of buffer
+pointer to end of buffer
+pointer to end of buffer
+pointer to end of buffer
+pointer to end of buffer
+pointer to end of buffer
+pointer to end of buffer
+pointer to end of buffer
+pointer to start of buffer
+pointer to end of buffer
+index 0x14995881b50 contains 1
+pointer to end of buffer
+index 0x14995881b54 contains 2
+pointer to end of buffer
+index 0x14995881b58 contains 3
+pointer to end of buffer
+index 0x14995881b5c contains 4
+pointer to end of buffer
+index 0x14995881b60 contains 5
+pointer to end of buffer
+index 0x14995881b64 contains 6
+pointer to end of buffer
+index 0x14995881b68 contains 7
+pointer to end of buffer
+index 0x14995881b6c contains 8
+pointer to end of buffer
+index 0x14995881b70 contains 9
+pointer to end of buffer
+index 0x14995881b74 contains 10
+pointer to end of buffer
+destructor
+destructor
+
+the correct begin and end functions are being called
+since the i in the for loop must be able to change hence const doesnt work.
+
+
+I did not manage to change both for loops into for-range based loops
+however inserting first using a normal for loop into then printing
+out with a range based worked fine.
