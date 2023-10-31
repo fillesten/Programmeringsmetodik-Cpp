@@ -1,3 +1,3 @@
 # Programmeringsmetodik-Cpp
 
-Projekt är WIP 
+Projekt är WIP och jobbas via visual studio
